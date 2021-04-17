@@ -34,5 +34,6 @@ project(':module-api') {
 
 ## Reference
 
+* [DolphaGo/spring-multi-module-example](https://github.com/DolphaGo/spring-multi-module-example)
 * [Spring Boot 와 Properties(or Yaml) Environment](https://kingbbode.tistory.com/39)
 * [멀티모듈에 한 방으로 적용되는 application.yml](https://devyounji.tistory.com/40)
