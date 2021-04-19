@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### DB Info ###
+**/resources/config/custom/db.yml
