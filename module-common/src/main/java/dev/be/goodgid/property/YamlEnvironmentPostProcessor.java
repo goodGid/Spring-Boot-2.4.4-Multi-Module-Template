@@ -27,7 +27,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class YamlEnvironmentPostProcessor implements EnvironmentPostProcessor {
 
-    private static final String[] propertyUris = { "classpath*:*.yml" };
+    private static final String[] propertyUris = { "classpath*:/config/custom/*.yml" };
     private static final String[] acceptsProfiles = { LOCAL, BETA, REAL };
 
     private final YamlPropertySourceLoader loader = new YamlPropertySourceLoader();
