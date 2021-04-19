@@ -14,8 +14,11 @@
 
 ## Structure
 
-* Parent : module-common
-* Child : module-api
+* Parent
+  - module-common : Repository, Property, Constant
+
+* Child
+  - module-api : Controller, Service
 
 > build.gradle in Root
 ``` java
@@ -25,12 +28,6 @@ project(':module-api') {
     }
 } 
 ```
-
-## Implement
-
-* module-api : Controller, Service
-* module-common : Repository, Property, Constant
-
 
 ## Reference
 
