@@ -29,7 +29,7 @@ project(':module-api') {
 ## Implement
 
 * module-api : Controller, Service
-* module-common : Repository, Property, Constatnt
+* module-common : Repository, Property, Constant
 
 
 ## Reference
