@@ -7,7 +7,7 @@
 ## Spec
 
 * Java 11
-* Spring Boot
+* Spring Boot 2.4.4
 * MySQL
 * JPA
 * Gradle 6.8.3
