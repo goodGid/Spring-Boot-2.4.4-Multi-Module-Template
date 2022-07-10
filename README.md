@@ -10,7 +10,7 @@
 * Spring Boot
 * MySQL
 * JPA
-* Gradle
+* Gradle 6.8.3
 
 ## Structure
 
